@@ -1,5 +1,5 @@
 funtion cat{
 this.stomach = []; 
 }
-
+hello cat;
 modul.export = cat;
