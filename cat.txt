@@ -1,3 +1,5 @@
 funtion cat{
 
 }
+
+modul.export = cat;
