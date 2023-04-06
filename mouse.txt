@@ -1,0 +1,3 @@
+funtion mouse(name){
+this.name = name;
+}
