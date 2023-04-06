@@ -1,5 +1,7 @@
 funtion mouse(name){
 this.name = name;
 }
-
-modul.export = cat;
+mouse/prototype.die = funtion() {
+this.dead = true;
+};
+modul.export = mouse;
